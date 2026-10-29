@@ -2,6 +2,9 @@
 
 Shows what you're watching in Stremio as your Discord status. Runs as a systemd user service.
 
+
+<img width="587" height="510" alt="image" src="https://github.com/user-attachments/assets/60bcff63-2199-43cb-8cee-28b0697f6918" />
+
 ## Requirements
 - Arch Linux (or any systemd distro)
 - Stremio and Discord running
