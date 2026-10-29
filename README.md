@@ -11,7 +11,7 @@ Shows what you're watching in Stremio as your Discord status. Runs as a systemd 
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/stremio-rpc.git
+git clone https://github.com/noahazrz/stremio-rpc.git
 cd stremio-rpc
 
 # Python environment
